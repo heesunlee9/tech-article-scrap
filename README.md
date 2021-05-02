@@ -6,7 +6,7 @@ VALIDITY: are the reported methods and rationale valid and accompanied by approp
 NOVELTY: is this original material distinct from previous publications? \
 IMPORTANCE: is this a significant finding to an important problem in the field? \
 CLARITY: are the ideas expressed clearly and concisely? \
-INTEREST: will the publication’s readers want to read this article? \
+INTEREST: will the publication’s readers want to read this article? 
 
 
 https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=092&aid=0002220082 \
